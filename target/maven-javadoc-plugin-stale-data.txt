@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+-Xdoclint:none
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/home/study/Новая папка/TaskManager/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/home/study/Новая папка/TaskManager/target/docs/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'TaskManager Project Documentation'
+-use
+-version
+-windowtitle
+'TaskManager'
+TaskManager
+C:\home\study\Новая папка\TaskManager\src\main\java = 1730766646268
+C:\home\study\Новая папка\TaskManager\target\docs\apidocs\allclasses-index.html = 1730766726763
+C:\home\study\Новая папка\TaskManager\target\docs\apidocs\allpackages-index.html = 1730766726765
+C:\home\study\Новая папка\TaskManager\target\docs\apidocs\element-list = 1730766726703
+C:\home\study\Новая папка\TaskManager\target\docs\apidocs\help-doc.html = 1730766726797
+C:\home\study\Новая папка\TaskManager\target\docs\apidocs\index-all.html = 1730766726786
+C:\home\study\Новая папка\TaskManager\target\docs\apidocs\index.html = 1730766726791
+C:\home\study\Новая папка\TaskManager\target\docs\apidocs\member-search-index.js = 1730766726774
+C:\home\study\Новая папка\TaskManager\target\docs\apidocs\module-search-index.js = 1730766726769
+C:\home\study\Новая папка\TaskManager\target\docs\apidocs\overview-tree.html = 1730766726749
+C:\home\study\Новая папка\TaskManager\target\docs\apidocs\package-search-index.js = 1730766726770
+C:\home\study\Новая папка\TaskManager\target\docs\apidocs\search.html = 1730766726789
+C:\home\study\Новая папка\TaskManager\target\docs\apidocs\tag-search-index.js = 1730766726775
+C:\home\study\Новая папка\TaskManager\target\docs\apidocs\type-search-index.js = 1730766726773
